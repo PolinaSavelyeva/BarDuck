@@ -1,0 +1,9 @@
+{
+  "name": "Bar Duck",
+  "description": "Get a duck in your top bar",
+  "uuid": "barduck@savelyeva.me",
+  "shell-version": [
+    "42"
+  ],
+  "url": "https://github.com/PolinaSavelyeva/BarDuck"
+}

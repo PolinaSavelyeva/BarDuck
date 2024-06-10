@@ -1,0 +1,13 @@
+.duck_close, .duck_open {
+    background-size: contain;
+    width: 64px;
+    height: 64px;
+}
+
+.duck_close {
+    background-image: url('sprite_close.png');
+}
+
+.duck_open {
+    background-image: url('sprite_open.png');
+}
